@@ -1,3 +1,4 @@
+cd D:\_my\Dropbox\src\github\poplcode\popl-manual
 call gitbook install
 call gitbook build
 
