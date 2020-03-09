@@ -5,7 +5,7 @@ rd /s /q docs
 call gitbook install
 call gitbook build
 
-call xcopy _book\*.* D:\_my\Dropbox\src\github\poplcode\poplcode.github.io\ /e /h /k /exclude:_deploy.bat+.gitignore+.git /Y
+call xcopy _book\*.* D:\_my\Dropbox\src\github\poplcode\poplcode.github.io\ /e /h /k /exclude:_deploy.bat+.gitignore /Y
 
 git clean -fx node_modules
 git clean -fx _book
