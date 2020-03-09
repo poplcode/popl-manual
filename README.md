@@ -54,7 +54,8 @@ foreach($bbs_list as $bbs){
 * 이하 부분은 평범한 php 구문입니다. foreach 로 루프를 돌면서 html을 보여줍니다.
 
 require 와 화면에 보여지는 부분을 제외하면 단 두줄로 구성되어 있음을 알 수 있습니다.  
-더 많은 예제를 확인하려면 [POPL 튜토리얼]() 을 확인하세요.
+더 많은 예제를 확인하려면 [POPL 튜토리얼](/tutorial) 을 확인하세요.
+설명이 필요없이 바로 소스코드를 확인하고 싶다면 [POPL 프로젝트의 샘플 코드](https://github.com/poplcode/popl/tree/master/samples/) 에서 확인하실 수 있습니다.
 
 
 # POPL BLOG
