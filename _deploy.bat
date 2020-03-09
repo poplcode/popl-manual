@@ -9,3 +9,8 @@ git clean -fx _book
 git add .
 git commit -a -m "Update docs"
 git push -u origin master
+
+cd D:\_my\Dropbox\src\github\poplcode\poplcode.github.io
+git add .
+git commit -a -m "Update docs"
+git push -u origin master
