@@ -2,7 +2,7 @@
 * [POPL 소개](README.md)
 * [튜토리얼](tutorial.md)
     * [익명 게시판 만들기](tutorials/anobbs.md)
-* 함수 목록
+* [함수 목록](function.md)
     * [배열](function/popl_arr.md)
         * [popl_array_has_key](function/array/popl_array_has_key.md)
     * [쿠키](function/popl_cookie.md)
