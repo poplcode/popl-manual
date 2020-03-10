@@ -1,0 +1,8 @@
+{    
+    "pluginsConfig": {
+      "folding-menu":	{
+        "animationDuration": 500,
+        "sticky":            true
+      }
+    }
+}
