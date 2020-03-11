@@ -5,6 +5,8 @@ rd /s /q docs
 call gitbook install
 call gitbook build
 
+call python minilog_rss.py
+
 call xcopy _book\*.* D:\_my\Dropbox\src\github\poplcode\poplcode.github.io\ /e /h /k /exclude:_deploy.bat+.gitignore /Y
 
 git clean -fx node_modules
